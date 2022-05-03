@@ -26,3 +26,5 @@ npm run dev
 ```
 ## Project By - yasankarj@gmail.com
 
+Configuring Symfony Authentication guide - https://symfony.com/doc/5.4/security.html
+
